@@ -209,3 +209,10 @@ hr {
     display: block;
   }
 }
+
+.blog1 {
+  color: #edd23a;
+}
+.blog2 {
+  color: chartreuse;
+}
